@@ -143,6 +143,9 @@ END IF
 
 Незважаючи на популярність, що згасає, мова безперервно розвивається: сьогодні існує безліч діалектів, що підтримують візуальне та об'єктне програмування (Delphi або Lazarus/FreePascal).
 
+![](https://img2.joyreactor.cc/pics/post/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-geek-%D1%8E%D0%BC%D0%BE%D1%80-%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%D1%8B-1381255.png)
+
+
 ```pascal
 program Quadratic;
 
@@ -335,6 +338,8 @@ class Vehicle {
     int m_numberOfTracks;
   };
 ```
+![](https://img2.joyreactor.cc/pics/post/it-%D1%8E%D0%BC%D0%BE%D1%80-geek-c%2B%2B-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-6979444.jpeg)
+
 
 #### Обджектів Сі (Objective-C)
 
@@ -855,6 +860,7 @@ if let result = solveQuadraticEquation(a: a, b: b, c: c) {
 
 ```
 
+![](https://stokito.files.wordpress.com/2013/09/content_m.jpg?w=281&h=300)
 
 ### Табличка з підсумками
 
