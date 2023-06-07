@@ -472,6 +472,7 @@ else:
 	print("Корней нет")
 ```
 
+![](https://media.tproger.ru/uploads/2017/08/python.png)
 
 #### Рубі (Ruby)
 
